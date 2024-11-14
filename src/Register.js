@@ -1,12 +1,11 @@
 import logo from './logo.svg';
-import './Main.css';
 
-function App() {
+function Register() {
   return (
     <div className="App">
-        This is App
+      <h1>Register Component</h1>
     </div>
   );
 }
 
-export default App;
+export default Register;

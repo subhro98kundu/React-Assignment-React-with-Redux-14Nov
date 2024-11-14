@@ -1,12 +1,11 @@
 import logo from './logo.svg';
-import './Main.css';
 
-function App() {
+function Logout() {
   return (
     <div className="App">
-        This is App
+      <h1>Logout Component</h1>
     </div>
   );
 }
 
-export default App;
+export default Logout;

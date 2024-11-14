@@ -1,12 +1,11 @@
 import logo from './logo.svg';
-import './Main.css';
 
-function App() {
+function ChatList() {
   return (
     <div className="App">
-        This is App
+      <h1>Chat List Component</h1>
     </div>
   );
 }
 
-export default App;
+export default ChatList;

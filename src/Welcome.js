@@ -1,10 +1,9 @@
 import logo from './logo.svg';
-import './Main.css';
 
 function App() {
   return (
     <div className="App">
-        This is App
+      <h1>Welcome Component</h1>
     </div>
   );
 }
